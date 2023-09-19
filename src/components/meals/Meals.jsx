@@ -1,4 +1,3 @@
-
 import { useLoaderData } from "react-router-dom";
 import SingleMeal from "../singleMeal/SingleMeal";
 
