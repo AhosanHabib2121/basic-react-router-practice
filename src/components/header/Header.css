@@ -1,0 +1,6 @@
+nav a {
+    margin-right: 10px;
+}
+a.active {
+  color: rgb(6, 138, 50);
+}
